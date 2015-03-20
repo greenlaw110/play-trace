@@ -1,0 +1,4 @@
+self: play -> play-trace 0.1
+
+require:
+    - play -> betterlogs 1.0
